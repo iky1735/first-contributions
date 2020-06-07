@@ -13,6 +13,7 @@
 - [Niranjan](https://github.com/niranjantuty)
 - [Garrett Kent](https://github.com/GarrettKent)
 - [Cristian Ines Hernandez Aldana](https://github.com/MephistoDevelop)
+- [Jongwan Yoon](https://gitbut.com/iky1735)
 - [Jonathan Urias Rivera](https://github.com/jonathanurias96)
 - [Olaosebikan Tosin](https://github.com/tosebikan)
 - [Samuel Gits](https://github.com/samgits)
